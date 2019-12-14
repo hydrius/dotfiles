@@ -1,1 +1,19 @@
 git ignore *
+git ignore /lost\+found
+
+!aquitard/.zshrc
+!aquitard/.config/oh-my-zsh
+!aquitard/.config/expressvpn
+!aquitard/.config/htop
+!aquitard/.config/git
+!aquitard/.config/yay
+!aquitard/.config/neofetch
+!aquitard/.config/rofi
+!aquitard/.config/ranger
+
+!aquitard/.xmodmap
+!aquitard/.pavucontro.ini
+!aquitard/.vim
+!aquitard/.tmux.conf
+!aquitard/.zsh
+!aquitard/.xinitrc
