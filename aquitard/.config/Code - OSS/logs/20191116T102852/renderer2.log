@@ -1,0 +1,81 @@
+[2019-11-16 10:58:17.386] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 10:58:24.992] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 10:58:51.338] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 10:58:58.491] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:00:30.431] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:08:36.653] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:08:43.837] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:08:49.650] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:09:41.100] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:09:55.754] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:10:12.719] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 11:10:29.309] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 13:17:45.949] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 13:19:50.610] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 15:08:14.928] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 15:14:35.988] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 15:14:40.918] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-16 17:05:37.681] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-17 13:24:26.553] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2019-11-17 13:25:45.994] [renderer2] [error] TreeError [OutlinePanel] Tree input not set: Error: TreeError [OutlinePanel] Tree input not set
+    at Q.updateChildren (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1047:30)
+    at e._doUpdate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5268:515)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)

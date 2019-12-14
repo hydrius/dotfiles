@@ -1,15 +1,17 @@
 *
 */
 
+!aquitard/
 !aquitard/.zshrc
-!aquitard/.config/oh-my-zsh
-!aquitard/.config/expressvpn
-!aquitard/.config/htop
-!aquitard/.config/git
-!aquitard/.config/yay
-!aquitard/.config/neofetch
-!aquitard/.config/rofi
-!aquitard/.config/ranger
+!aquitard/.config/
+!aquitard/.config/oh-my-zsh/
+!aquitard/.config/expressvpn/
+!aquitard/.config/htop/
+!aquitard/.config/git/
+!aquitard/.config/yay/
+!aquitard/.config/neofetch/
+!aquitard/.config/rofi/
+!aquitard/.config/ranger/
 
 !aquitard/.xmodmap
 !aquitard/.pavucontro.ini

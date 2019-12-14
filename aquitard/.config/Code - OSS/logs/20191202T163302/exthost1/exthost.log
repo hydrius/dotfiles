@@ -1,0 +1,104 @@
+[2019-12-02 16:33:05.167] [exthost] [info] extension host started
+[2019-12-02 16:33:05.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2019-12-02 16:33:05.249] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2019-12-02 16:33:05.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2019-12-02 16:33:05.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension
+[2019-12-02 16:33:05.320] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2019-12-02 16:33:05.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/yzhang.markdown-all-in-one-2.5.1/dist/extension
+[2019-12-02 16:33:05.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-12-02 16:33:05.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-12-02 16:33:05.368] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-12-02 16:33:05.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ms-python.python-2019.11.50794/out/client/extension
+[2019-12-02 16:33:05.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-02 16:33:05.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-12-02 16:33:05.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-02 16:33:05.753] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-12-02 16:33:05.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-02 16:33:05.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-12-02 16:33:05.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-02 16:33:05.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-12-02 16:33:05.847] [exthost] [info] ExtensionService#_doActivateExtension ckolkman.vscode-postgres {"startup":true,"extensionId":{"value":"ckolkman.vscode-postgres","_lower":"ckolkman.vscode-postgres"},"activationEvent":"*"}
+[2019-12-02 16:33:05.847] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ckolkman.vscode-postgres-1.1.11/out/extension
+[2019-12-02 16:33:05.977] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2019-12-02 16:33:05.977] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-1.7.20/dist/extension
+[2019-12-02 16:33:06.034] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"vsciot-vscode.vscode-arduino","_lower":"vsciot-vscode.vscode-arduino"},"activationEvent":"*"}
+[2019-12-02 16:33:06.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1/dist/main
+[2019-12-02 16:33:06.452] [exthost] [info] eager extensions activated
+[2019-12-02 16:33:07.152] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"extensionId":{"value":"vsciot-vscode.vscode-arduino","_lower":"vsciot-vscode.vscode-arduino"},"activationEvent":"*"}
+[2019-12-02 16:33:07.152] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/vsciot-vscode.vscode-arduino-0.2.28/out/src/extension
+[2019-12-02 16:33:59.824] [exthost] [info] extension host started
+[2019-12-02 16:33:59.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-02 16:33:59.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-12-02 16:33:59.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-02 16:33:59.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-12-02 16:33:59.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-02 16:33:59.904] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-12-02 16:33:59.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-02 16:33:59.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-12-02 16:33:59.922] [exthost] [info] ExtensionService#_doActivateExtension ckolkman.vscode-postgres {"startup":true,"extensionId":{"value":"ckolkman.vscode-postgres","_lower":"ckolkman.vscode-postgres"},"activationEvent":"*"}
+[2019-12-02 16:33:59.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ckolkman.vscode-postgres-1.1.11/out/extension
+[2019-12-02 16:33:59.976] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2019-12-02 16:33:59.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-1.7.20/dist/extension
+[2019-12-02 16:33:59.999] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"vsciot-vscode.vscode-arduino","_lower":"vsciot-vscode.vscode-arduino"},"activationEvent":"*"}
+[2019-12-02 16:33:59.999] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1/dist/main
+[2019-12-02 16:34:00.022] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":true,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"workspaceContains:README.md"}
+[2019-12-02 16:34:00.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/yzhang.markdown-all-in-one-2.5.1/dist/extension
+[2019-12-02 16:34:00.126] [exthost] [info] eager extensions activated
+[2019-12-02 16:34:00.157] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"extensionId":{"value":"vsciot-vscode.vscode-arduino","_lower":"vsciot-vscode.vscode-arduino"},"activationEvent":"*"}
+[2019-12-02 16:34:00.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/vsciot-vscode.vscode-arduino-0.2.28/out/src/extension
+[2019-12-02 16:34:01.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-12-02 16:34:01.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-12-02 16:34:01.222] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-12-02 16:34:01.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ms-python.python-2019.11.50794/out/client/extension
+[2019-12-02 16:51:53.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-12-02 16:51:53.636] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2019-12-02 16:52:07.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2019-12-02 16:52:07.741] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2019-12-02 16:52:07.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2019-12-02 16:52:07.751] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension
+[2019-12-02 19:51:03.091] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
+[2019-12-02 19:51:03.091] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/formulahendry.code-runner-0.9.15/out/src/extension
+[2019-12-04 18:44:46.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-04 18:44:46.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-12-04 18:44:46.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2019-12-04 18:44:46.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-12-04 18:44:46.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-12-04 18:44:46.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2019-12-04 18:44:47.726] [exthost] [info] extension host started
+[2019-12-04 18:44:47.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-12-04 18:44:47.760] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-12-04 18:44:47.767] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-12-04 18:44:47.767] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ms-python.python-2019.11.50794/out/client/extension
+[2019-12-04 18:44:47.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2019-12-04 18:44:47.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-12-04 18:44:47.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-12-04 18:44:47.940] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2019-12-04 18:44:47.956] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2019-12-04 18:44:47.956] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2019-12-04 18:44:47.963] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2019-12-04 18:44:47.963] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension
+[2019-12-04 18:44:47.993] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2019-12-04 18:44:47.993] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/yzhang.markdown-all-in-one-2.5.1/dist/extension
+[2019-12-04 18:44:48.028] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
+[2019-12-04 18:44:48.028] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/formulahendry.code-runner-0.9.15/out/src/extension
+[2019-12-04 18:44:48.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":false,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-04 18:44:48.091] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-12-04 18:44:48.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":false,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-04 18:44:48.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-12-04 18:44:48.116] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-04 18:44:48.116] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-12-04 18:44:48.120] [exthost] [info] ExtensionService#_doActivateExtension ckolkman.vscode-postgres {"startup":false,"extensionId":{"value":"ckolkman.vscode-postgres","_lower":"ckolkman.vscode-postgres"},"activationEvent":"*"}
+[2019-12-04 18:44:48.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ckolkman.vscode-postgres-1.1.11/out/extension
+[2019-12-04 18:44:48.241] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2019-12-04 18:44:48.241] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-1.7.20/dist/extension
+[2019-12-04 18:44:48.260] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"vsciot-vscode.vscode-arduino","_lower":"vsciot-vscode.vscode-arduino"},"activationEvent":"*"}
+[2019-12-04 18:44:48.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1/dist/main
+[2019-12-04 18:44:48.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-04 18:44:48.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-12-04 18:44:48.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2019-12-04 18:44:48.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-12-04 18:44:48.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-12-04 18:44:48.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2019-12-04 18:44:48.604] [exthost] [info] eager extensions activated
+[2019-12-04 18:44:49.392] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":false,"extensionId":{"value":"vsciot-vscode.vscode-arduino","_lower":"vsciot-vscode.vscode-arduino"},"activationEvent":"*"}
+[2019-12-04 18:44:49.392] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/vsciot-vscode.vscode-arduino-0.2.28/out/src/extension

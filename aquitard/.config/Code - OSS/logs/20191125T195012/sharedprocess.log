@@ -1,0 +1,4 @@
+[2019-11-25 19:50:16.633] [sharedprocess] [info] main {"machineId":"6940a053771a897e0d3d4c53e7248f8ee8be1d5922a098ab871b815a9ad25d5a","windowId":2}
+[2019-11-25 19:50:17.268] [sharedprocess] [info] Deleted from disk formulahendry.code-runner /home/aquitard/.vscode-oss/extensions/formulahendry.code-runner-0.9.14
+[2019-11-25 19:50:17.436] [sharedprocess] [info] Deleted from disk ms-python.python /home/aquitard/.vscode-oss/extensions/ms-python.python-2019.10.44104
+[2019-11-25 19:50:56.646] [sharedprocess] [info] Starting to clean up unused language packs.

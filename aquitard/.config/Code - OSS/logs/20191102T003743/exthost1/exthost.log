@@ -1,0 +1,30 @@
+[2019-11-02 00:37:45.087] [exthost] [info] extension host started
+[2019-11-02 00:37:45.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-02 00:37:45.104] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-11-02 00:37:45.111] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-02 00:37:45.111] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-11-02 00:37:45.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-02 00:37:45.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-11-02 00:37:45.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-02 00:37:45.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-11-02 00:37:45.227] [exthost] [info] ExtensionService#_doActivateExtension ckolkman.vscode-postgres {"startup":true,"extensionId":{"value":"ckolkman.vscode-postgres","_lower":"ckolkman.vscode-postgres"},"activationEvent":"*"}
+[2019-11-02 00:37:45.227] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ckolkman.vscode-postgres-1.1.11/out/extension
+[2019-11-02 00:37:45.315] [exthost] [info] eager extensions activated
+[2019-11-02 01:05:21.365] [exthost] [info] extension host started
+[2019-11-02 01:05:21.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-02 01:05:21.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-11-02 01:05:21.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-02 01:05:21.380] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-11-02 01:05:21.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-02 01:05:21.414] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-11-02 01:05:21.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-02 01:05:21.486] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-11-02 01:05:21.490] [exthost] [info] ExtensionService#_doActivateExtension ckolkman.vscode-postgres {"startup":true,"extensionId":{"value":"ckolkman.vscode-postgres","_lower":"ckolkman.vscode-postgres"},"activationEvent":"*"}
+[2019-11-02 01:05:21.490] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ckolkman.vscode-postgres-1.1.11/out/extension
+[2019-11-02 01:05:21.571] [exthost] [info] eager extensions activated
+[2019-11-02 09:21:11.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-11-02 09:21:11.143] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-11-02 09:21:11.144] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-11-02 09:21:11.145] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ms-python.python-2019.10.44104/out/client/extension
+[2019-11-02 13:00:29.868] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
+[2019-11-02 13:00:29.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/formulahendry.code-runner-0.9.14/out/src/extension

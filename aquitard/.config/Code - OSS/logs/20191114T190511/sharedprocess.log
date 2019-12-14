@@ -1,0 +1,8 @@
+[2019-11-14 19:05:15.794] [sharedprocess] [info] main {"machineId":"6940a053771a897e0d3d4c53e7248f8ee8be1d5922a098ab871b815a9ad25d5a","windowId":3}
+[2019-11-14 19:05:42.674] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2019-11-14 19:05:44.438] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one /tmp/6b933d08-ba78-4c79-bf55-2845ede3b1b8
+[2019-11-14 19:05:45.470] [sharedprocess] [info] Extracted extension to /home/aquitard/.vscode-oss/extensions/.yzhang.markdown-all-in-one-2.5.1: yzhang.markdown-all-in-one
+[2019-11-14 19:05:45.470] [sharedprocess] [info] Renamed to /home/aquitard/.vscode-oss/extensions/yzhang.markdown-all-in-one-2.5.1
+[2019-11-14 19:05:45.473] [sharedprocess] [info] Installation completed. yzhang.markdown-all-in-one
+[2019-11-14 19:05:45.489] [sharedprocess] [info] Extensions installed successfully: yzhang.markdown-all-in-one
+[2019-11-14 19:05:55.811] [sharedprocess] [info] Starting to clean up unused language packs.

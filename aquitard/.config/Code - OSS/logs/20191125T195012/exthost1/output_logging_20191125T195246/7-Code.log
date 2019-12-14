@@ -1,0 +1,383 @@
+[Running] python -u "/home/aquitard/Projects/Weatherpy/test.py"
+
+Observations (temp): 22.1
+45
+90
+180
+180
+180
+112
+
+[Done] exited with code=0 in 2.288 seconds
+
+[Running] python -u "/home/aquitard/Projects/Weatherpy/test.py"
+
+Observations (temp): 22.1
+Station ID 94870
+Air Temperature 22.0
+45
+90
+180
+180
+180
+112
+
+[Done] exited with code=0 in 1.321 seconds
+
+[Running] python -u "/home/aquitard/Projects/Weatherpy/test.py"
+
+Observations (temp): 22
+Station ID 94870
+Air Temperature 22.0
+Data courtesy of Bureau of Meteorology (ftp://ftp.bom.gov.au/anon/gen/fwo/IDV60920.xml) 
+
+95936 Melbourne (Olympic Park)   22.7°C
+94866 Melbourne Airport   22.5°C
+94854 Avalon   22.8°C
+94898 Cerberus   19.0°C
+94864 Coldstream   18.5°C
+95866 Essendon Airport   22.5°C
+95872 Fawkner Beacon
+94872 Ferny Creek   18.5°C
+94871 Frankston
+94857 Geelong Racecourse   22.9°C
+94865 Laverton   22.9°C
+94870 Moorabbin Airport   22.0°C
+94892 Rhyll   20.7°C
+95867 Scoresby   21.3°C
+94863 Sheoaks   23.7°C
+94853 South Channel Island
+95864 St Kilda Harbour RMYS
+95874 Viewbank   21.5°C
+94826 Cape Nelson   13.5°C
+94842 Cape Otway   14.4°C
+94846 Aireys Inlet   17.5°C
+94949 Hogan Island   14.6°C
+94933 Gabo Island   18.2°C
+55039 Kingfish B   16.1°C
+95904 Lakes Entrance   18.0°C
+94932 Point Hicks   18.9°C
+94834 Ararat   22.4°C
+95839 Horsham   25.9°C
+94906 Mount Hotham   13.4°C
+94908 Omeo   16.6°C
+95918 Orbost   19.7°C
+94830 Port Fairy   14.3°C
+94875 Shepparton   28.9°C
+95831 Walpeup   26.7°C
+95881 Wonthaggi   20.9°C
+94839 Charlton   25.5°C
+94838 Hopetoun Airport   25.7°C
+94844 Kerang   32.5°C
+94693 Mildura   29.5°C
+94831 Ouyen   26.8°C
+94843 Swan Hill   27.8°C
+95835 Longerenong   25.6°C
+94827 Nhill Aerodrome   25.6°C
+94836 Stawell   23.4°C
+94920 Warracknabeal Airport   26.2°C
+95832 Edenhope   16.9°C
+95827 Kanagulk   18.4°C
+94855 Bendigo   26.0°C
+94861 Echuca   23.5°C
+95833 Kyabram   28.7°C
+94874 Mangalore   26.4°C
+95843 Strathbogie   21.0°C
+95836 Tatura   28.1°C
+94862 Yarrawonga   27.7°C
+94884 Benalla   21.3°C
+94878 Hunters Hill   21.8°C
+94888 Lake Dartmouth   17.1°C
+94894 Mount Buller   12.8°C
+95837 Rutherglen   27.7°C
+94889 Wangaratta   27.5°C
+94882 Lake Eildon   16.5°C
+94905 Mount Hotham Airport   15.2°C
+94912 Bairnsdale   19.2°C
+94914 Combienbar   16.3°C
+94913 Gelantipy   20.9°C
+94935 Mallacoota   20.1°C
+94930 Mount Nowa Nowa   16.5°C
+95907 East Sale Airport   18.9°C
+94891 Latrobe Valley   19.6°C
+95901 Mount Baw Baw   13.1°C
+95913 Mount Moornapa   17.7°C
+99806 Warragul (Nilma North)   18.7°C
+94893 Wilsons Promontory   21.9°C
+94911 Yanakie   18.6°C
+95890 Yarram Airport   19.5°C
+94852 Ballarat   21.1°C
+94886 Pound Creek   18.5°C
+94859 Redesdale   27.9°C
+95853 Castlemaine   20.0°C
+94881 Eildon Fire Tower   22.7°C
+94860 Kilmore Gap   20.8°C
+94849 Maryborough   20.9°C
+94858 Puckapunyal-Lyon Hill (Defence)   24.3°C
+94856 Puckapunyal West (Defence)   21.8°C
+94835 Ben Nevis   17.0°C
+95825 Casterton   14.3°C
+95822 Dartmoor   13.5°C
+94829 Hamilton   15.0°C
+94840 Mortlake   14.3°C
+95845 Mount Gellibrand   16.8°C
+94833 Mount William   14.7°C
+94828 Portland Airport   12.8°C
+95826 Portland Harbour   13.9°C
+94837 Warrnambool   14.2°C
+95840 Westmere   16.1°C
+99054 Victoria Portable D   19.3°C
+99048 Victoria Portable F   15.0°C
+99049 Victoria Portable G   20.0°C
+99050 Victoria Portable H   21.9°C
+99052 Victoria Portable J   12.2°C
+99066 Victorian Portable L   19.0°C
+
+Station ID: 95936
+Description: Melbourne (Olympic Park)
+Air Temperature: 22.7
+45
+90
+180
+180
+180
+112
+
+[Done] exited with code=0 in 5.015 seconds
+
+[Running] python -u "/home/aquitard/Projects/Weatherpy/test.py"
+
+Observations (temp): 22
+Station ID 94870
+Air Temperature 22.0
+Data courtesy of Bureau of Meteorology (ftp://ftp.bom.gov.au/anon/gen/fwo/IDV60920.xml) 
+
+Traceback (most recent call last):
+  File "/home/aquitard/Projects/Weatherpy/test.py", line 32, in <module>
+    air_temperature = obs_data.wind_dir(wmo_id)
+AttributeError: 'Observations' object has no attribute 'wind_dir'
+
+[Done] exited with code=1 in 4.173 seconds
+
+[Running] python -u "/home/aquitard/Projects/weather-au/examples/observations.py"
+Data courtesy of Bureau of Meteorology (ftp://ftp.bom.gov.au/anon/gen/fwo/IDV60920.xml) 
+
+95936 Melbourne (Olympic Park)   22.3°C
+94866 Melbourne Airport   21.6°C
+94854 Avalon   22.5°C
+94898 Cerberus   18.9°C
+94864 Coldstream   17.8°C
+95866 Essendon Airport   22.5°C
+95872 Fawkner Beacon
+94872 Ferny Creek   19.2°C
+94871 Frankston
+94857 Geelong Racecourse   21.9°C
+94865 Laverton   22.7°C
+94870 Moorabbin Airport   21.7°C
+94892 Rhyll   19.9°C
+95867 Scoresby   20.9°C
+94863 Sheoaks   24.0°C
+94853 South Channel Island
+95864 St Kilda Harbour RMYS
+95874 Viewbank   21.2°C
+94826 Cape Nelson   13.3°C
+94842 Cape Otway   14.2°C
+94846 Aireys Inlet   15.1°C
+94949 Hogan Island   14.2°C
+94933 Gabo Island   18.0°C
+55039 Kingfish B   16.5°C
+95904 Lakes Entrance   18.0°C
+94932 Point Hicks   18.9°C
+94834 Ararat   22.4°C
+95839 Horsham   26.2°C
+94906 Mount Hotham   13.0°C
+94908 Omeo   15.8°C
+95918 Orbost   19.0°C
+94830 Port Fairy   13.9°C
+94875 Shepparton   28.3°C
+95831 Walpeup   26.5°C
+95881 Wonthaggi   20.9°C
+94839 Charlton   25.1°C
+94838 Hopetoun Airport   24.9°C
+94844 Kerang   32.5°C
+94693 Mildura   29.9°C
+94831 Ouyen   26.8°C
+94843 Swan Hill   26.9°C
+95835 Longerenong   26.1°C
+94827 Nhill Aerodrome   23.6°C
+94836 Stawell   23.3°C
+94920 Warracknabeal Airport   25.8°C
+95832 Edenhope   16.3°C
+95827 Kanagulk   16.7°C
+94855 Bendigo   24.5°C
+94861 Echuca   23.5°C
+95833 Kyabram   28.4°C
+94874 Mangalore   26.3°C
+95843 Strathbogie   21.0°C
+95836 Tatura   27.8°C
+94862 Yarrawonga   27.4°C
+94884 Benalla   21.3°C
+94878 Hunters Hill   21.5°C
+94888 Lake Dartmouth   17.1°C
+94894 Mount Buller   12.7°C
+95837 Rutherglen   25.1°C
+94889 Wangaratta   27.5°C
+94882 Lake Eildon   16.5°C
+94905 Mount Hotham Airport   12.1°C
+94912 Bairnsdale   19.0°C
+94914 Combienbar   15.7°C
+94913 Gelantipy   20.9°C
+94935 Mallacoota   19.3°C
+94930 Mount Nowa Nowa   16.4°C
+95907 East Sale Airport   19.3°C
+94891 Latrobe Valley   19.7°C
+95901 Mount Baw Baw   12.0°C
+95913 Mount Moornapa   17.6°C
+99806 Warragul (Nilma North)   18.5°C
+94893 Wilsons Promontory   21.5°C
+94911 Yanakie   17.8°C
+95890 Yarram Airport   19.5°C
+94852 Ballarat   20.4°C
+94886 Pound Creek   18.2°C
+94859 Redesdale   27.9°C
+95853 Castlemaine   20.0°C
+94881 Eildon Fire Tower   22.8°C
+94860 Kilmore Gap   21.3°C
+94849 Maryborough   20.9°C
+94858 Puckapunyal-Lyon Hill (Defence)   25.1°C
+94856 Puckapunyal West (Defence)   25.2°C
+94835 Ben Nevis   16.6°C
+95825 Casterton   13.7°C
+95822 Dartmoor   13.3°C
+94829 Hamilton   14.3°C
+94840 Mortlake   13.7°C
+95845 Mount Gellibrand   15.7°C
+94833 Mount William   15.3°C
+94828 Portland Airport   12.7°C
+95826 Portland Harbour   14.1°C
+94837 Warrnambool   14.0°C
+95840 Westmere   15.3°C
+99054 Victoria Portable D   18.4°C
+99048 Victoria Portable F   14.7°C
+99049 Victoria Portable G   19.6°C
+99050 Victoria Portable H   21.1°C
+99052 Victoria Portable J   11.6°C
+99066 Victorian Portable L   17.7°C
+Traceback (most recent call last):
+  File "/home/aquitard/Projects/weather-au/examples/observations.py", line 24, in <module>
+    air_temperature = obs_data.wind_dir_deg(wmo_id)
+AttributeError: 'Observations' object has no attribute 'wind_dir_deg'
+
+[Done] exited with code=1 in 4.576 seconds
+
+[Running] python -u "/home/aquitard/Projects/weather-au/examples/observations.py"
+Data courtesy of Bureau of Meteorology (ftp://ftp.bom.gov.au/anon/gen/fwo/IDV60920.xml) 
+
+95936 Melbourne (Olympic Park)   22.3°C
+94866 Melbourne Airport   21.6°C
+94854 Avalon   22.5°C
+94898 Cerberus   18.9°C
+94864 Coldstream   17.8°C
+95866 Essendon Airport   22.5°C
+95872 Fawkner Beacon
+94872 Ferny Creek   19.2°C
+94871 Frankston
+94857 Geelong Racecourse   21.9°C
+94865 Laverton   22.7°C
+94870 Moorabbin Airport   21.7°C
+94892 Rhyll   19.9°C
+95867 Scoresby   20.9°C
+94863 Sheoaks   24.0°C
+94853 South Channel Island
+95864 St Kilda Harbour RMYS
+95874 Viewbank   21.2°C
+94826 Cape Nelson   13.3°C
+94842 Cape Otway   14.2°C
+94846 Aireys Inlet   15.1°C
+94949 Hogan Island   14.2°C
+94933 Gabo Island   18.0°C
+55039 Kingfish B   16.5°C
+95904 Lakes Entrance   18.0°C
+94932 Point Hicks   18.9°C
+94834 Ararat   22.4°C
+95839 Horsham   26.2°C
+94906 Mount Hotham   13.0°C
+94908 Omeo   15.8°C
+95918 Orbost   19.0°C
+94830 Port Fairy   13.9°C
+94875 Shepparton   28.3°C
+95831 Walpeup   26.5°C
+95881 Wonthaggi   20.9°C
+94839 Charlton   25.1°C
+94838 Hopetoun Airport   24.9°C
+94844 Kerang   32.5°C
+94693 Mildura   29.9°C
+94831 Ouyen   26.8°C
+94843 Swan Hill   26.9°C
+95835 Longerenong   26.1°C
+94827 Nhill Aerodrome   23.6°C
+94836 Stawell   23.3°C
+94920 Warracknabeal Airport   25.8°C
+95832 Edenhope   16.3°C
+95827 Kanagulk   16.7°C
+94855 Bendigo   24.5°C
+94861 Echuca   23.5°C
+95833 Kyabram   28.4°C
+94874 Mangalore   26.3°C
+95843 Strathbogie   21.0°C
+95836 Tatura   27.8°C
+94862 Yarrawonga   27.4°C
+94884 Benalla   21.3°C
+94878 Hunters Hill   21.5°C
+94888 Lake Dartmouth   17.1°C
+94894 Mount Buller   12.7°C
+95837 Rutherglen   25.1°C
+94889 Wangaratta   27.5°C
+94882 Lake Eildon   16.5°C
+94905 Mount Hotham Airport   12.1°C
+94912 Bairnsdale   19.0°C
+94914 Combienbar   15.7°C
+94913 Gelantipy   20.9°C
+94935 Mallacoota   19.3°C
+94930 Mount Nowa Nowa   16.4°C
+95907 East Sale Airport   19.3°C
+94891 Latrobe Valley   19.7°C
+95901 Mount Baw Baw   12.0°C
+95913 Mount Moornapa   17.6°C
+99806 Warragul (Nilma North)   18.5°C
+94893 Wilsons Promontory   21.5°C
+94911 Yanakie   17.8°C
+95890 Yarram Airport   19.5°C
+94852 Ballarat   20.4°C
+94886 Pound Creek   18.2°C
+94859 Redesdale   27.9°C
+95853 Castlemaine   20.0°C
+94881 Eildon Fire Tower   22.8°C
+94860 Kilmore Gap   21.3°C
+94849 Maryborough   20.9°C
+94858 Puckapunyal-Lyon Hill (Defence)   25.1°C
+94856 Puckapunyal West (Defence)   25.2°C
+94835 Ben Nevis   16.6°C
+95825 Casterton   13.7°C
+95822 Dartmoor   13.3°C
+94829 Hamilton   14.3°C
+94840 Mortlake   13.7°C
+95845 Mount Gellibrand   15.7°C
+94833 Mount William   15.3°C
+94828 Portland Airport   12.7°C
+95826 Portland Harbour   14.1°C
+94837 Warrnambool   14.0°C
+95840 Westmere   15.3°C
+99054 Victoria Portable D   18.4°C
+99048 Victoria Portable F   14.7°C
+99049 Victoria Portable G   19.6°C
+99050 Victoria Portable H   21.1°C
+99052 Victoria Portable J   11.6°C
+99066 Victorian Portable L   17.7°C
+Traceback (most recent call last):
+  File "/home/aquitard/Projects/weather-au/examples/observations.py", line 24, in <module>
+    air_temperature = obs_data.pres(wmo_id)
+AttributeError: 'Observations' object has no attribute 'pres'
+
+[Done] exited with code=1 in 4.03 seconds
+

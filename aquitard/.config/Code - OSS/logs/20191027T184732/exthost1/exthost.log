@@ -1,0 +1,26 @@
+[2019-10-27 18:47:34.674] [exthost] [info] extension host started
+[2019-10-27 18:47:34.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-27 18:47:34.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-10-27 18:47:34.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-27 18:47:34.697] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-10-27 18:47:34.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-27 18:47:34.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-10-27 18:47:34.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-27 18:47:34.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-10-27 18:47:34.801] [exthost] [info] ExtensionService#_doActivateExtension ckolkman.vscode-postgres {"startup":true,"extensionId":{"value":"ckolkman.vscode-postgres","_lower":"ckolkman.vscode-postgres"},"activationEvent":"*"}
+[2019-10-27 18:47:34.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ckolkman.vscode-postgres-1.1.11/out/extension
+[2019-10-27 18:47:34.908] [exthost] [info] eager extensions activated
+[2019-10-27 18:47:56.741] [exthost] [info] extension host started
+[2019-10-27 18:47:56.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-27 18:47:56.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-10-27 18:47:56.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-27 18:47:56.770] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-10-27 18:47:56.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-27 18:47:56.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-10-27 18:47:56.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-27 18:47:56.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-10-27 18:47:56.860] [exthost] [info] ExtensionService#_doActivateExtension ckolkman.vscode-postgres {"startup":true,"extensionId":{"value":"ckolkman.vscode-postgres","_lower":"ckolkman.vscode-postgres"},"activationEvent":"*"}
+[2019-10-27 18:47:56.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aquitard/.vscode-oss/extensions/ckolkman.vscode-postgres-1.1.11/out/extension
+[2019-10-27 18:47:59.079] [exthost] [info] eager extensions activated
+[2019-10-27 20:02:59.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2019-10-27 20:02:59.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension

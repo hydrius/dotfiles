@@ -1,0 +1,26 @@
+[2019-11-23 10:32:54.366] [sharedprocess] [info] main {"machineId":"6940a053771a897e0d3d4c53e7248f8ee8be1d5922a098ab871b815a9ad25d5a","windowId":2}
+[2019-11-23 10:32:57.397] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2019-11-23 10:32:57.398] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-11-23 10:32:58.399] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /tmp/227ae647-2d87-40bd-a971-ac956159e96c
+[2019-11-23 10:32:58.829] [sharedprocess] [info] Extracted extension to /home/aquitard/.vscode-oss/extensions/.formulahendry.code-runner-0.9.15: formulahendry.code-runner
+[2019-11-23 10:32:58.831] [sharedprocess] [info] Renamed to /home/aquitard/.vscode-oss/extensions/formulahendry.code-runner-0.9.15
+[2019-11-23 10:32:58.835] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2019-11-23 10:32:58.860] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2019-11-23 10:33:02.070] [sharedprocess] [info] Installing extension: vsciot-vscode.vscode-arduino
+[2019-11-23 10:33:04.756] [sharedprocess] [info] Downloaded extension: vsciot-vscode.vscode-arduino /tmp/79476245-dad5-418a-89e1-818528ca58f6
+[2019-11-23 10:33:05.692] [sharedprocess] [info] Extracted extension to /home/aquitard/.vscode-oss/extensions/.vsciot-vscode.vscode-arduino-0.2.28: vsciot-vscode.vscode-arduino
+[2019-11-23 10:33:05.692] [sharedprocess] [info] Renamed to /home/aquitard/.vscode-oss/extensions/vsciot-vscode.vscode-arduino-0.2.28
+[2019-11-23 10:33:05.693] [sharedprocess] [info] Installation completed. vsciot-vscode.vscode-arduino
+[2019-11-23 10:33:05.972] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/fb2fecf8-1eef-44d0-a858-9cc7dd2cc2e5
+[2019-11-23 10:33:05.991] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-11-23 10:33:07.442] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/67da7b44-3fec-4659-a836-ef1d45d2b734
+[2019-11-23 10:33:09.478] [sharedprocess] [info] Extracted extension to /home/aquitard/.vscode-oss/extensions/.ms-vscode.cpptools-0.26.1: ms-vscode.cpptools
+[2019-11-23 10:33:09.479] [sharedprocess] [info] Renamed to /home/aquitard/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1
+[2019-11-23 10:33:09.489] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-11-23 10:33:09.511] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-11-23 10:33:09.514] [sharedprocess] [info] Extensions installed successfully: vsciot-vscode.vscode-arduino
+[2019-11-23 10:33:11.579] [sharedprocess] [info] Extracted extension to /home/aquitard/.vscode-oss/extensions/.ms-python.python-2019.11.50794: ms-python.python
+[2019-11-23 10:33:11.580] [sharedprocess] [info] Renamed to /home/aquitard/.vscode-oss/extensions/ms-python.python-2019.11.50794
+[2019-11-23 10:33:11.591] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-11-23 10:33:11.623] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-11-23 10:33:34.383] [sharedprocess] [info] Starting to clean up unused language packs.

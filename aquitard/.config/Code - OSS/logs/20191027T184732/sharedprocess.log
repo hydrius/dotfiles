@@ -1,0 +1,8 @@
+[2019-10-27 18:47:36.378] [sharedprocess] [info] main {"machineId":"6940a053771a897e0d3d4c53e7248f8ee8be1d5922a098ab871b815a9ad25d5a","windowId":2}
+[2019-10-27 18:47:37.998] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-10-27 18:47:48.243] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/93ed01df-1575-4a63-8bfa-52b167729c9d
+[2019-10-27 18:47:51.903] [sharedprocess] [info] Extracted extension to /home/aquitard/.vscode-oss/extensions/.ms-python.python-2019.10.44104: ms-python.python
+[2019-10-27 18:47:51.904] [sharedprocess] [info] Renamed to /home/aquitard/.vscode-oss/extensions/ms-python.python-2019.10.44104
+[2019-10-27 18:47:51.918] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-10-27 18:47:51.939] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-10-27 18:48:16.383] [sharedprocess] [info] Starting to clean up unused language packs.

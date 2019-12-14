@@ -1,0 +1,8 @@
+[Running] python -u "/home/aquitard/Projects/HomePage/app/routes.py"
+Traceback (most recent call last):
+  File "/home/aquitard/Projects/HomePage/app/routes.py", line 2, in <module>
+    from app import app
+ModuleNotFoundError: No module named 'app'
+
+[Done] exited with code=1 in 0.223 seconds
+
