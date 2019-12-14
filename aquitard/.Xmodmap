@@ -1,0 +1,6 @@
+clear Lock 
+keycode 66 = Hyper_L
+add mod4 = Hyper_L
+
+clear Control_R
+keycode 105 = Left

@@ -1,0 +1,48 @@
+#!/bin/bash
+
+datetime=$(date +%Y-%m-%d/%H:%M:%S)
+
+another=$(echo -e "Firefox
+Visual Studio
+Spotify
+Transmission
+Others
+SSH
+------
+Reboot
+Shutdown"  | rofi -mesg "What would you like to do?" -dmenu -i -theme purple -p $datetime)
+
+if [ "$another" == "RELOAD" ] ; then
+	i3-msg reload;
+	i3-msg restart;
+	pkill -USR1 -x sxhkd;
+  bash ~/.startup -r;
+
+elif [ "$another" == "Firefox" ] ; then
+	exec firefox-nightly;
+
+elif [ "$another" == "Visual Studio" ] ; then
+	exec code
+
+elif [ "$another" == "Spotify" ] ; then
+	exec spotify
+
+elif [ "$another" == "Transmission" ] ; then
+	exec transmission-gtk
+
+elif [ "$another" == "Others" ] ; then
+	rofi -show run
+
+elif [ "$another" == "SSH" ] ; then
+	rofi -show ssh
+
+elif [ "$another" == "Reboot" ] ; then
+	[ $(echo -e "Yes\nNo" | rofi "${ROFI_OPTIONS[@]}" -theme-str "*{accent: #e53714;}" -dmenu -i -p "Are you shure you want to proceed?") == Yes ] && reboot
+	
+elif [ "$another" == "POWOFF" ] ; then
+	[ $(echo -e "Yes\nNo" | rofi "${ROFI_OPTIONS[@]}" -theme-str "*{accent: #e53714;}" -dmenu -i -p "Are you shure you want to proceed?") == Yes ] && shutdown -h now
+
+else
+    echo $another
+fi
+
