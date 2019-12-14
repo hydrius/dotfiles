@@ -1,5 +1,5 @@
-git ignore *
-git ignore /lost\+found
+*
+*/
 
 !aquitard/.zshrc
 !aquitard/.config/oh-my-zsh
