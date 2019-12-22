@@ -19,7 +19,7 @@ if [ "$another" == "RELOAD" ] ; then
   bash ~/.startup -r;
 
 elif [ "$another" == "Firefox" ] ; then
-	exec firefox-nightly;
+	exec firefox;
 
 elif [ "$another" == "Visual Studio" ] ; then
 	exec code
